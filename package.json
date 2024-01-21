@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/NouraMagdy3/eCommerce-react-app",
-  "name": "my-ecommerce-react-app",
+  "name": "mystyles",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,8 +18,6 @@
     "react-router": "^6.0.2",
     "react-router-dom": "^6.0.2",
     "react-scripts": "4.0.3",
-    "react-shopping-cart": "^1.9.5",
-    "react-subscribe-card": "^2.1.4",
     "recoil": "^0.5.2",
     "redux": "^4.1.2",
     "redux-devtools-extension": "^2.13.9",
